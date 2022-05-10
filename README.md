@@ -17,7 +17,7 @@ Overall, the successful rate of funding $10,000 is around 55%, and in US the goa
 ### Results
 
 #### Two conclusions are made about the Theater Outcomes by Launch Date 
-![Outcomes_Vs_Launch Date](https://github.com/ivorfanning/kickstarter-analysis/blob/main/Resources.zip/Outcomes_Vs_Goals)
+![Outcomes_Vs_Launch Date](https://github.com/ivorfanning/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 *1. From the entire data, the number of successful crowdfunding of theater is higher than the failed and canceled campaign in every month.
 2. The best crowdfunding campaign timing is in May and June.*
 #### One conclusion is made about the Outcomes based on Goals
