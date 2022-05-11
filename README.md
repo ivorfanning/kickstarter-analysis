@@ -27,5 +27,5 @@ Overall, the successful rate of funding $10,000 is around 55%, and in US the goa
 *The most successful crowdfunding campaign is the goal under $1000, the higher the goal set, the lower the successful percentage. So, the successful percentage of crowdfunding is negative corelated with the goal.*
 
 #### limitations of the dataset and recommendations
-*The time span of this dataset is huge, from 1970 to 2017 and the latest   data is from 2017, and the prediction is not accurate.
+*The time span of this dataset is huge, from 1970 to 2017 and the latest data is from 2017, so the prediction is not accurate.
 The recommendation for another table is to get the preference of what kind of campaign purpose and how much they could donate for different age of group people.*
